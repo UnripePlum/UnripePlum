@@ -42,6 +42,15 @@
 <a href="https://github.com/UnripePlum/hihangul">
   <img align="center" src="https://github-readme-stats-nmhs.vercel.app/api/pin/?username=UnripePlum&repo=hihangul&theme=default&hide_border=true" />
 </a>
+<a href="https://github.com/UnripePlum/ringle-ai-tutor">
+  <img align="center" src="https://github-readme-stats-nmhs.vercel.app/api/pin/?username=UnripePlum&repo=ringle-ai-tutor&theme=default&hide_border=true" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/UnripePlum/esp-matter-hub">
+  <img align="center" src="https://github-readme-stats-nmhs.vercel.app/api/pin/?username=UnripePlum&repo=esp-matter-hub&theme=default&hide_border=true" />
+</a>
 <a href="https://github.com/UnripePlum/claude-development-cli">
   <img align="center" src="https://github-readme-stats-nmhs.vercel.app/api/pin/?username=UnripePlum&repo=claude-development-cli&theme=default&hide_border=true" />
 </a>
@@ -56,16 +65,16 @@
 </a>
 
 <details>
-<summary>🔨 More projects (private repos)</summary>
+<summary>📂 More projects</summary>
 <br/>
 
 | Project | Stack | Description |
 |---------|-------|-------------|
-| **ringle-ai-tutor** | Ruby on Rails, React, Ollama | AI English tutor — STT/LLM/TTS pipeline, 135 tests, local & OpenAI support |
-| **adwright** | Python, Playwright | Auto-deploy content from Notion to 6 platforms (Naver, DC, Velog, Instagram, X, Everytime) |
-| **persona_app** | Flutter, Supabase, FCM | Anonymous social chat with persona-based random matching & friend system |
-| **esp-matter-hub** | C, ESP-IDF, Matter | Smart home hub with custom IR cluster on ESP32-S3 |
-| **farm-direct** | TypeScript, Python | Agricultural direct-trade platform with Playwright e2e tests (19/19 pass) |
+| [**persona_app**](https://github.com/UnripePlum/persona_app) | Flutter, Supabase, FCM | Anonymous social chat — persona-based random matching & friend system |
+| [**farm-direct**](https://github.com/UnripePlum/farm-direct) | TypeScript, Python | Agricultural direct-trade platform with Playwright e2e tests (19/19 pass) |
+| [**persona_server**](https://github.com/UnripePlum/persona_server) | Python, Firebase | Cloud Functions backend for Persona — Firestore, custom auth, friend management |
+| [**banana**](https://github.com/UnripePlum/banana) | Flutter, ML Kit | AI-powered secondhand marketplace — image labeling for fraud prevention |
+| [**quant_sim_app**](https://github.com/UnripePlum/quant_sim_app) | Next.js, TypeScript | Stock trading simulator frontend with Google OAuth and real-time charts |
 
 </details>
 
