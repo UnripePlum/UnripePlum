@@ -28,28 +28,28 @@
 ## Featured Projects
 
 <a href="https://github.com/UnripePlum/hihangul">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UnripePlum&repo=hihangul&theme=default&hide_border=true" />
+  <img align="center" src="https://github-readme-stats-nmhs.vercel.app/api/pin/?username=UnripePlum&repo=hihangul&theme=default&hide_border=true" />
 </a>
 <a href="https://github.com/UnripePlum/barrier_free_kiosk_front">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UnripePlum&repo=barrier_free_kiosk_front&theme=default&hide_border=true" />
+  <img align="center" src="https://github-readme-stats-nmhs.vercel.app/api/pin/?username=UnripePlum&repo=barrier_free_kiosk_front&theme=default&hide_border=true" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/UnripePlum/instagram_web">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UnripePlum&repo=instagram_web&theme=default&hide_border=true" />
+  <img align="center" src="https://github-readme-stats-nmhs.vercel.app/api/pin/?username=UnripePlum&repo=instagram_web&theme=default&hide_border=true" />
 </a>
 <a href="https://github.com/almang-idle/Zerobase_2025">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=almang-idle&repo=Zerobase_2025&theme=default&hide_border=true" />
+  <img align="center" src="https://github-readme-stats-nmhs.vercel.app/api/pin/?username=almang-idle&repo=Zerobase_2025&theme=default&hide_border=true" />
 </a>
 
 ## Stats
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=UnripePlum&show_icons=true&hide_border=true&count_private=true" height="170" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnripePlum&layout=compact&hide_border=true" height="170" />
+  <img align="center" src="https://github-readme-stats-nmhs.vercel.app/api?username=UnripePlum&show_icons=true&hide_border=true&count_private=true" height="170" />
+  <img align="center" src="https://github-readme-stats-nmhs.vercel.app/api/top-langs/?username=UnripePlum&layout=compact&hide_border=true" height="170" />
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UnripePlum&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=UnripePlum&hide_border=true" />
 </p>
