@@ -55,24 +55,16 @@
   <img align="center" src="https://github-readme-stats-nmhs.vercel.app/api/pin/?username=UnripePlum&repo=claude-development-cli&theme=default&hide_border=true" />
 </a>
 
-<br/><br/>
-
-<a href="https://github.com/UnripePlum/barrier_free_kiosk_front">
-  <img align="center" src="https://github-readme-stats-nmhs.vercel.app/api/pin/?username=UnripePlum&repo=barrier_free_kiosk_front&theme=default&hide_border=true" />
-</a>
-<a href="https://github.com/UnripePlum/instagram_web">
-  <img align="center" src="https://github-readme-stats-nmhs.vercel.app/api/pin/?username=UnripePlum&repo=instagram_web&theme=default&hide_border=true" />
-</a>
-
 <details>
 <summary>📂 More projects</summary>
 <br/>
 
 | Project | Stack | Description |
 |---------|-------|-------------|
+| [**barrier_free_kiosk_front**](https://github.com/UnripePlum/barrier_free_kiosk_front) | Java, Android | Accessible kiosk with 4 modes — standard, elderly (large UI), visually impaired (TTS + keypad), wheelchair (USB serial height control) |
+| [**instagram_web**](https://github.com/UnripePlum/instagram_web) | Next.js 15, Prisma, PostgreSQL | Full-stack Instagram clone — real-time DM (Socket.IO), stories, feed algorithm, notifications |
 | [**persona_app**](https://github.com/UnripePlum/persona_app) | Flutter, Supabase, FCM | Anonymous social chat — persona-based random matching & friend system |
 | [**farm-direct**](https://github.com/UnripePlum/farm-direct) | TypeScript, Python | Agricultural direct-trade platform with Playwright e2e tests (19/19 pass) |
-| [**persona_server**](https://github.com/UnripePlum/persona_server) | Python, Firebase | Cloud Functions backend for Persona — Firestore, custom auth, friend management |
 | [**banana**](https://github.com/UnripePlum/banana) | Flutter, ML Kit | AI-powered secondhand marketplace — image labeling for fraud prevention |
 | [**quant_sim_app**](https://github.com/UnripePlum/quant_sim_app) | Next.js, TypeScript | Stock trading simulator frontend with Google OAuth and real-time charts |
 
