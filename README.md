@@ -1,40 +1,55 @@
-## Hi, I'm Hanjun 👋
+<!-- Typing SVG -->
+<p align="center">
+  <a href="https://github.com/UnripePlum">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=CS+%40+KAIST;Flutter+%7C+Python+%7C+Rust;AI+%26+Systems+Builder;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
+</p>
 
-CS undergraduate at KAIST, interested in building things that work — from mobile apps to backend systems to AI tools.
+## About Me
 
-### What I work with
+- 🎓 CS undergraduate at **KAIST**
+- 🤖 Building **hihangul** — a local-first AI assistant for HWP automation
+- 📱 Mobile apps with **Flutter**, backend with **Python** & **Rust**
+- 🔭 Interested in AI/ML, Systems Programming, and Embedded
 
-**Languages**
-`Python` `Dart` `Rust` `TypeScript` `Java` `C++`
+## Tech Stack
 
-**Frameworks & Tools**
-`Flutter` `ComfyUI` `FastAPI` `Node.js`
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+</p>
 
-**Areas**
-`Mobile Development` `AI/ML` `Systems Programming` `Embedded`
+## Featured Projects
 
-### Projects
+<a href="https://github.com/UnripePlum/hihangul">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UnripePlum&repo=hihangul&theme=default&hide_border=true" />
+</a>
+<a href="https://github.com/UnripePlum/barrier_free_kiosk_front">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UnripePlum&repo=barrier_free_kiosk_front&theme=default&hide_border=true" />
+</a>
 
-**Personal**
+<br/><br/>
 
-| Project | What it does | Tech |
-|---------|-------------|------|
-| [hihangul](https://github.com/UnripePlum/hihangul) | Local-first AI assistant for HWP office tasks | Python |
-| [barrier_free_kiosk_front](https://github.com/UnripePlum/barrier_free_kiosk_front) | Accessible kiosk interface for everyone | Java |
-| [instagram_web](https://github.com/UnripePlum/instagram_web) | Instagram web clone | TypeScript |
-| [claude-development-cli](https://github.com/UnripePlum/claude-developent-cli) | CLI tool built with Rust | Rust |
+<a href="https://github.com/UnripePlum/instagram_web">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UnripePlum&repo=instagram_web&theme=default&hide_border=true" />
+</a>
+<a href="https://github.com/almang-idle/Zerobase_2025">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=almang-idle&repo=Zerobase_2025&theme=default&hide_border=true" />
+</a>
 
-**Team / Organization**
+## Stats
 
-| Project | What it does | Tech |
-|---------|-------------|------|
-| [Zerobase_2025](https://github.com/almang-idle/Zerobase_2025) | Flutter mobile POS system | Dart |
-| [quant_sim_backend](https://github.com/Quant-Sim/quant_sim_backend) | Quantitative trading simulation server | Python |
-| [yeet-gpu-server](https://github.com/yeet-madcamp/yeet-gpu-server) | GPU inference server | Python |
-| [pillowpon_app](https://github.com/welcome-kaist/pillowpon_app) | Reward app for KAIST newcomers | HTML |
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=UnripePlum&show_icons=true&hide_border=true&count_private=true" height="170" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnripePlum&layout=compact&hide_border=true" height="170" />
+</p>
 
-### Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UnripePlum&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UnripePlum&layout=compact&hide_border=true)
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UnripePlum&hide_border=true" />
+</p>
